@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-1200,0)">
+        <g id="Planet">
+        </g>
+        <g id="Stickers">
+        </g>
+        <g id="Naomi-Portrait" serif:id="Naomi Portrait" transform="matrix(0.506659,0,0,0.5,98.6002,0)">
+            <rect x="2173.85" y="0" width="2021.08" height="2048" style="fill:none;"/>
+            <g transform="matrix(0.986857,0,0,1,2190.55,-73.6825)">
+                <g transform="matrix(1,0,0,1,-39.7631,22.4948)">
+                    <path d="M630.606,759.54C515.894,935.182 373.27,1026.29 183.01,973.115C273.785,751.313 425.977,687.838 630.606,759.54Z" style="fill:white;"/>
+                </g>
+                <g transform="matrix(-0.969246,0.246093,0.246093,0.969246,1805.09,-51.1751)">
+                    <path d="M630.606,759.54C515.894,935.182 373.27,1026.29 183.01,973.115C273.785,751.313 425.977,687.838 630.606,759.54Z"/>
+                </g>
+                <path d="M573.502,370.646C553.034,378.441 538.064,526.489 556.532,576.198C579.053,636.811 651.734,705.362 651.734,705.362L794.76,610.961C794.76,610.961 692.775,548.471 666.479,507.91C625.011,443.947 593.97,362.852 573.502,370.646Z" style="stroke:black;stroke-width:17px;"/>
+                <g transform="matrix(-1,0,0,1,2007.21,0)">
+                    <path d="M573.502,370.646C553.034,378.441 538.064,526.489 556.532,576.198C579.053,636.811 651.734,705.362 651.734,705.362L794.76,610.961C794.76,610.961 692.775,548.471 666.479,507.91C625.011,443.947 593.97,362.852 573.502,370.646Z" style="stroke:black;stroke-width:17px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-156.86,-539.679)">
+                    <path d="M1154.82,1046.22C1441.13,1046.22 1671.3,1290.63 1673.58,1472.49C1677.74,1805.23 1663.14,2019.58 1573.06,2158.49C1477.56,2305.78 1295.03,2367.48 1154.82,2367.48C1014.61,2367.48 798.202,2307.37 731.814,2158.49C668.804,2017.19 635.046,1750.99 629.823,1472.49C626.412,1290.64 868.515,1046.22 1154.82,1046.22Z" style="fill:white;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-156.86,-539.679)">
+                    <path d="M1154.82,1055.08C1260.6,1055.08 1279.34,1082.29 1261.1,1125.77C1229.95,1199.99 1091.09,1321.61 1093.31,1436.27C1096.95,1624.21 645.81,1849.95 636.07,1472.49C631.378,1290.67 868.515,1055.08 1154.82,1055.08Z" style="stroke:black;stroke-width:17px;"/>
+                </g>
+                <g transform="matrix(0.873699,0,0,0.974243,-10.9109,322.108)">
+                    <ellipse cx="1154.82" cy="1213.33" rx="518.753" ry="329.54" style="fill:rgb(255,221,245);"/>
+                </g>
+                <path d="M606.941,923.233C678.91,842.856 755.962,818.785 833.686,900.934" style="fill:none;stroke:white;stroke-width:17px;"/>
+                <g transform="matrix(-1,0,0,1,1942.69,0)">
+                    <path d="M606.941,923.233C678.91,842.856 755.962,818.785 833.686,900.934" style="fill:none;stroke:black;stroke-width:17px;"/>
+                </g>
+                <ellipse cx="828.223" cy="1321.83" rx="33.589" ry="31.861"/>
+                <g transform="matrix(1,0,0,1,295.707,0)">
+                    <ellipse cx="828.223" cy="1321.83" rx="33.589" ry="31.861"/>
+                </g>
+                <path d="M635.638,1530.63C752.315,1814.83 1258.67,1809.89 1366.72,1516.75" style="fill:none;stroke:black;stroke-width:17px;"/>
+            </g>
+        </g>
+        <g id="App-Icon" serif:id="App Icon">
+        </g>
+        <g id="Tabbar">
+        </g>
+    </g>
+</svg>
